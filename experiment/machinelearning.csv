@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Who coined the term machine learning in 1959?,a: Donald Hebb | b: Tom M. Mitchell | c: Arthur Samuel | d: Walter Pitts,c
+What was the earliest machine learning model introduced by Arthur Samuel in the 1950s?,a: Program for calculating winning chance in checkers | b: Program for recognizing speech patterns | c: Program for analyzing sonar signals | d: Program for playing chess,a
+Who proposed the early mathematical models of neural networks for machine learning algorithms?,a: Donald Hebb | b: Warren McCulloch | c: Tom M. Mitchell | d: Raytheon Company,b
+What is the main objective of modern-day machine learning?,a: To develop computer vision algorithms | b: To make predictions for future outcomes | c: To analyze historical data | d: To create artificial neurons,b
+"According to Tom M. Mitchell, when does a computer program learn from experience?",a: When its performance at tasks in T improves with experience E | b: When it is trained by a human operator | c: When it recognizes patterns in data | d: When it is equipped with a 'goof' button,a
